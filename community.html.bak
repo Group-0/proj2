@@ -9,7 +9,7 @@
         <a href="home.html">Home</a>
         <a href="study.html">Study</a>
         <a href="resources.html">Resources</a>
-        <a href="jobs.html">Jobs</a>
+        <a href="Jobs.html">Jobs</a>
         <a href="community.html">Community</a>
         <a href="eat.html">Places to Eat</a>
 	</div>
@@ -41,7 +41,7 @@
 	<h2>
 		<center> <p>Traditions</p>
 	</h2>
-	<p> Texas A&M is full of traditions and this is a big part of what makes the University so unique. <br> Some common traditions include Silver Taps, Muster, Midnight Yell, Aggie Ring, Elephant walk, and many more. <br> If you don't participate in traditions, you may get called a 2 percenter! </p>
+	<p style="padding-bottom: 200px;"> Texas A&M is full of traditions and this is a big part of what makes the University so unique. <br> Some common traditions include Silver Taps, Muster, Midnight Yell, Aggie Ring, Elephant walk, and many more. <br> If you don't participate in traditions, you may get called a 2 percenter! </p>
 	<img style="padding-bottom: 200px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_rqhR9u8OOS9wvZ36IiHy0unDUt0KV5NPpQ&usqp=CAU" alt="Image">
 	
 	
