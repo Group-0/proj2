@@ -10,8 +10,8 @@
     h1 {text-align: center;}
     </style>
 </head>
+<body>
 <body style="background-color:maroon;">
-
 	<div id="navbar">
         <a href="index.html">Home</a>
         <a href="study.html">Study</a>
