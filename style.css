@@ -87,3 +87,8 @@ ul {
     text-align: center;
     list-style-position: inside;
 }
+
+p {
+    padding-right: 250px;
+    padding-left: 250px;
+}
